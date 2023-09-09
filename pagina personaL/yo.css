@@ -1,0 +1,103 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #5a3333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 36px;
+}
+p{
+color: rgb(118, 116, 247);
+text-align: center;
+font-size: 35px;
+
+
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image: linear-gradient(to bottom, #8d4a4a, #66489c);
+    border-radius: 5px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+}
+a{
+
+    display: block;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: #024383;
+    border-radius: 40px;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    color: #f7f6f6;
+    text-decoration: wheat;
+
+
+
+}
+a:hover{
+
+    background-color: #333;
+    border: 2px solid rebeccapurple;
+    color: yellow;
+
+
+
+}
+
+/* Estilos para secciones */
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 24px;
+    color: #020202;
+    text-align: center;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+/* Estilos para el pie de página */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Estilos para enlaces */

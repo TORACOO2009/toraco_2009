@@ -1,0 +1,142 @@
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d80000;
+    margin: 0;
+    padding: 0;
+  }
+  
+  section{ background-color: #885304;
+    color: #f3f3f3;
+padding: 60px;
+text-align: center;
+margin-bottom: 20px;
+border-radius: 90px;
+
+
+}
+div{
+
+    background-color: #a89809;
+    color: #f3f3f3;
+padding: 60px;
+text-align: center;
+margin-bottom: 20px;
+border-radius: 90px;
+
+}
+a.atr {
+
+
+
+ display: block;
+        width: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: 700;
+        background-color: #024383;
+        border-radius: 40px;
+        padding: 15px;
+        margin: 15px;
+        text-align: center;
+        color: #f7f6f6;
+        text-decoration: none;
+        
+        
+
+
+}
+a:hover.atr{
+    background-color: #333;
+    border: 2px solid rebeccapurple;
+    color: yellow;
+
+}
+
+
+a.yt{
+    display: block;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: #aa0505;
+    border-radius: 40px;
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    color: #f7f6f6;
+    text-decoration: none;
+    
+    
+
+
+}
+a:hover.yt{
+background-color: #ffffff;
+border: 2px solid rgb(8, 2, 14);
+color: rgb(255, 0, 0);
+
+
+
+}
+
+
+a.ig{
+    display: block;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: #7f0283;
+    border-radius: 40px;
+    padding: 25px;
+    margin: 25px;
+    text-align: center;
+    color: #e9e506;
+    text-decoration: none;
+    
+    
+
+
+}
+a:hover.ig{
+background-color: #5527aa;
+border: 2px solid rgb(6, 23, 177);
+color: yellow;
+
+
+
+}
+a.whatsapp{
+
+    display: block;
+    width: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: #e5eaf0;
+    border-radius: 40px;
+    padding: 25px;
+    margin: 15px;
+    text-align: center;
+    color: #08e037;
+    text-decoration: none;
+    
+    
+
+
+}
+a:hover.whatsapp{
+background-color: #05e405;
+border: 2px solid rgb(5, 4, 5);
+color: rgb(255, 255, 255);
+
+
+
+}
+
+
+
+
+
+
+
+
+
